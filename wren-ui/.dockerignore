@@ -8,3 +8,8 @@ README.md
 *.sqlite
 *.sqlite3
 .env*.local
+node_modules
+.yarn/cache
+.yarn/unplugged
+.next
+.git
