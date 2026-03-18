@@ -16,7 +16,7 @@ const nextConfig = withLess({
   i18n: {
     locales: ['en', 'fr'],
     defaultLocale: 'en',
-    localeDetection: true,
+    localeDetection: false,
   },
   compiler: {
     // Enables the styled-components SWC transform

@@ -94,7 +94,7 @@
     "typescript": "5.2.2",
     "vega": "^6.2.0",
     "vega-embed": "^6.29.0",
-    "vega-lite": "^6.2.0"
+    "vega-lite": "^6.4.2"
   },
   "resolutions": {
     "ws": "8.17.1",
