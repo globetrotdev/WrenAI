@@ -6,6 +6,7 @@ on:
       - main # Triggers every time you merge to main
     paths:
       - 'wren-ui/**' # Only triggers if UI files changed
+  workflow_dispatch: # Allows manual triggering from the Actions tab    
 
 jobs:
   build-and-push:
