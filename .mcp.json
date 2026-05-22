@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "reddit": {
+      "command": "uvx",
+      "args": ["reddit-no-auth-mcp-server"]
+    }
+  }
+}
